@@ -2,12 +2,16 @@
 ## __Simple Activity Indicator for your web browser__
 
 ### Installation
-  1. 'git clone https://github.com/dkim117/activityIndicator.git'
-  2. Include 'ac.png', 'ai.css', 'ai.js' into your project
-  -- '<script src='src/ai.js' type='text/javascript'> </script>'
-  -- '<link href='src/ai.css' rel='stylesheet' type='text/css'>'
-  -- Add 'ai.png' to your images
+   1. 'git clone https://github.com/dkim117/activityIndicator.git'
+   2. Include 'ac.png', 'ai.css', 'ai.js' into your project
+     -- '<script src='src/ai.js' type='text/javascript'> </script>'
+     -- '<link href='src/ai.css' rel='stylesheet' type='text/css'>'
+      -- Add 'ai.png' to your images
 
 ### Usage
+    To show Activity Indicator
+     -  'AI.show();'
+    To hide Activity Indicator
+      - 'AI.hide();'
 ### Dependencies
   jQuery 2.1.3+
